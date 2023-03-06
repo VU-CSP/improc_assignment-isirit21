@@ -12,10 +12,10 @@ Q1) What is the maximum intensity value in the [Differential interference contra
 A1) 254
 
 Q2) What are the dimensions of the [Phase contrast](image_files/PhaseContrast.tif) file?  
-A2)  (157, 112, 8 Bit).  
+A2)  (314, 226, 8 Bit).  
 
 Q3) Which image has greater dynamic range of pixel intensities? Phase or DiffInt?  
-A3) Phase
+A3) DiffInt
 
 #### *Task 2:*
 Open the file [Fluorescence_composite.tif](image_files/Fluorescence_composite.tif) and convert all the signal in the red channel to the blue channel, export the file as a JPG and upload it to this repository in the [image_files](image_files) directory with the name "Composite.jpg".  
